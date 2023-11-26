@@ -8,8 +8,8 @@ pip install pygame
 
 > Navigate to the directory: Use the cd command to navigate to the directory where you saved the snake_game.py file.
 > ```python
-cd path/to/your/directory
-```
+> cd path/to/your/directory
+> ```
 
 > Run the script: Once you're in the correct directory, run the script using the python command:
 > python snake_game.py
