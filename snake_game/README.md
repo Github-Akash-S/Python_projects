@@ -2,10 +2,10 @@
 
 > Install Pygame: Open your terminal and run the following command to install the Pygame library if you haven't already:
 
-'''python
+```python
 
 pip install pygame
-'''
+```
 
 > Navigate to the directory: Use the cd command to navigate to the directory where you saved the snake_game.py file.
 > cd path/to/your/directory
