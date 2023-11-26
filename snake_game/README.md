@@ -1,4 +1,5 @@
-> Save the code with a .py extension, for example, snake_game.py.
+> Save the code with a .py extension.
+> for example, snake_game.py.
 
 > Install Pygame: Open your terminal and run the following command to install the Pygame library if you haven't already:
 >```python
