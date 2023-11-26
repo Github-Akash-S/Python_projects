@@ -2,7 +2,8 @@
 
 > Install Pygame: Open your terminal and run the following command to install the Pygame library if you haven't already:
 
-'''
+'''python
+
 pip install pygame
 '''
 
